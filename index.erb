@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="<%=@css_path%>">
+  </head>
+  <body>
+    <div class="text">
+      <% for line in @text %>
+        <p><%= line %></p>
+      <% end %>
+    </div>
+  </body>
+</html>
