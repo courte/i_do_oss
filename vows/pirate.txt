@@ -1,0 +1,4 @@
+PirateA: arr, will ye be my matey?
+PirateB: aye, if ye'll sail the seas with me!
+PirateA: aye, as certain as doubloons are made of gold.
+Parrot: ...made of gold!
