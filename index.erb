@@ -4,6 +4,9 @@
     <link rel="stylesheet" type="text/css" href="<%=@css_path%>">
   </head>
   <body>
+    <% if @name %>
+      <h1 class="name"><%= @name %>:</h1>
+    <% end %>
     <div class="text">
       <% for line in @text %>
         <p><%= line %></p>

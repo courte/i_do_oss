@@ -1,6 +1,6 @@
-require 'tilt/erubis'
-require 'sinatra'
-require 'pry'
+require "tilt/erubis"
+require "sinatra"
+require "pry"
 ​
 set :views, settings.root
 ​
