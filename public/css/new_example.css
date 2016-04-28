@@ -1,0 +1,16 @@
+body{
+	background-color: #0e5583 ;
+	color: #8effff;
+
+}
+
+.name{
+	text-transform: uppercase;
+	width: 80%;
+	margin: 0 auto;
+}
+.text{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
